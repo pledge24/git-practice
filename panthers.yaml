@@ -5,7 +5,8 @@ manager: Sebastian
 coach: Teddy
 
 members:
-- mainTest
+
+- branchTest
 - Stella
 - Anthony
 - Freddie
